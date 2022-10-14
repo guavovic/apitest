@@ -1,0 +1,182 @@
+[
+   {
+      "id":1,
+      "eventName":"Skate em Brusque",
+      "description":"Proporciona grande gasto calórico, tonifica a musculatura, o skate trabalha de forma simultânea a parte aeróbica e a parte anaeróbica, contribuindo para melhoras cardiorrespiratórias. Além disso contribui para a melhora da flexibilidade e o equilíbrio, o skate também contribui para a socialização.",
+      "from":"2022-10-05T06:00:00",
+      "to":"2022-10-10T07:00:00",
+      "id_user":2,
+      "id_provider":3,
+      "sport":"Skate",
+      "localization":{
+         "endereco":"AJSDASD",
+         "foto":"DJSFISDFS",
+         "latitude":21321,
+         "longitude":213214
+      },
+      "price":"12",
+      "background":"0xffFFFF00"
+   },
+   {
+      "id":3,
+      "eventName":"Rafting para iniciantes",
+      "description":"Beneficia o condicionamento físico, reduz risco de estresse, além de trabalhar a musculatura do abdômen, bíceps, ombro e pernas, desenvolve habilidades como liderança e trabalho em equipe.",
+      "from":"2022-09-18T06:00:00",
+      "to":"2022-10-01T07:00:00",
+      "id_user":2,
+      "id_provider":3,
+      "sport":"Rafting",
+      "localization":{
+         "endereco":"AJSDASD",
+         "foto":"DJSFISDFS",
+         "latitude":21321,
+         "longitude":213214
+      },
+      "price":"12",
+      "background":"0xff0000FF"
+   },
+   {
+      "id":4,
+      "eventName":"Voo livre com assistencia",
+      "description":"As duas principais modalidades são parapente e asa delta, seu principal benefício é o contato com a natureza e também auxilia no tratamento de estresse, o voo livre contribui para a flexibilidade, já que é necessária a realização de alongamentos e aquecimentos antes do voo.",
+      "from":"2022-10-13T06:00:00",
+      "to":"2022-10-13T07:00:00",
+      "id_user":2,
+      "id_provider":3,
+      "sport":"Voo livre",
+      "localization":{
+         "endereco":"AJSDASD",
+         "foto":"DJSFISDFS",
+         "latitude":21321,
+         "longitude":213214
+      },
+      "price":"12",
+      "background":"0xffFF0000"
+   },
+   {
+      "id":5,
+      "eventName":"Rapel",
+      "description":"Controla a ansiedade, melhora a concentração e a coordenação motora, aumenta a força muscular, fortalece ossos e músculos, reduz o estresse.",
+      "from":"2022-10-12T16:00:00",
+      "to":"2022-10-16T18:00:00",
+      "id_user":2,
+      "id_provider":3,
+      "sport":"Rapel",
+      "localization":{
+         "endereco":"AJSDASD",
+         "foto":"DJSFISDFS",
+         "latitude":21321,
+         "longitude":213214
+      },
+      "price":"12",
+      "background":"0xff00FF00"
+   },
+   {
+      "id":6,
+      "eventName":"Paraquedismo",
+      "description":"Os esportes radicais no geral, trazem muitos benefícios, pois dão aquela sensação de liberdade, contribuem para enfrentar medos, além de fornecer muita adrenalina, o que ajuda no alívio do estresse e da ansiedade, ou seja, é quase que uma terapia. Beneficia a mente e o corpo, proporcionando uma sensação de bem-estar, além de contribuir para a autoconfiança e superação.",
+      "from":"2022-09-24T06:00:00",
+      "to":"2022-09-27T07:00:00",
+      "id_user":2,
+      "id_provider":3,
+      "sport":"Paraquedismo",
+      "localization":{
+         "endereco":"AJSDASD",
+         "foto":"DJSFISDFS",
+         "latitude":21321,
+         "longitude":213214
+      },
+      "price":"12",
+      "background":"0xffFFA500"
+   },
+   {
+      "id":7,
+      "eventName":"Mountain bike",
+      "description":"Em Blumenau, Santa Catarina, a atividade de mountain bike é a marca registrada. ",
+      "from":"2022-10-05T05:00:00",
+      "to":"2022-10-10T15:00:00",
+      "id_user":2,
+      "id_provider":3,
+      "sport":"Mountain bike",
+      "localization":{
+         "endereco":"AJSDASD",
+         "foto":"DJSFISDFS",
+         "latitude":21321,
+         "longitude":213214
+      },
+      "price":"12",
+      "background":"0xffFFFF00"
+   },
+   {
+      "id":9,
+      "eventName":"Rafting",
+      "description":"Beneficia o condicionamento físico, reduz risco de estresse, além de trabalhar a musculatura do abdômen, bíceps, ombro e pernas, desenvolve habilidades como liderança e trabalho em equipe.",
+      "from":"2022-09-18T06:00:00",
+      "to":"2022-10-01T07:00:00",
+      "id_user":2,
+      "id_provider":3,
+      "sport":"Rafting",
+      "localization":{
+         "endereco":"AJSDASD",
+         "foto":"DJSFISDFS",
+         "latitude":21321,
+         "longitude":213214
+      },
+      "price":"12",
+      "background":"0xff800080"
+   },
+   {
+      "id":10,
+      "eventName":"Voo livre",
+      "description":"As duas principais modalidades são parapente e asa delta, seu principal benefício é o contato com a natureza e também auxilia no tratamento de estresse, o voo livre contribui para a flexibilidade, já que é necessária a realização de alongamentos e aquecimentos antes do voo.",
+      "from":"2022-10-12T06:00:00",
+      "to":"2022-10-13T07:00:00",
+      "id_user":2,
+      "id_provider":3,
+      "sport":"Voo livre",
+      "localization":{
+         "endereco":"AJSDASD",
+         "foto":"DJSFISDFS",
+         "latitude":21321,
+         "longitude":213214
+      },
+      "price":"12",
+      "background":"0xffFF0000"
+   },
+   {
+      "id":11,
+      "eventName":"Rapel",
+      "description":"Controla a ansiedade, melhora a concentração e a coordenação motora, aumenta a força muscular, fortalece ossos e músculos, reduz o estresse.",
+      "from":"2022-10-07T16:00:00",
+      "to":"2022-10-07T19:00:00",
+      "id_user":2,
+      "id_provider":3,
+      "sport":"Rapel",
+      "localization":{
+         "endereco":"AJSDASD",
+         "foto":"DJSFISDFS",
+         "latitude":21321,
+         "longitude":213214
+      },
+      "price":"12",
+      "background":"0xff800080"
+   },
+   {
+      "id":12,
+      "eventName":"Paraquedismo",
+      "description":"Os esportes radicais no geral, trazem muitos benefícios, pois dão aquela sensação de liberdade, contribuem para enfrentar medos, além de fornecer muita adrenalina, o que ajuda no alívio do estresse e da ansiedade, ou seja, é quase que uma terapia. Beneficia a mente e o corpo, proporcionando uma sensação de bem-estar, além de contribuir para a autoconfiança e superação.",
+      "from":"2022-10-18T06:00:00",
+      "to":"2022-10-19T07:00:00",
+      "id_user":2,
+      "id_provider":3,
+      "sport":"Paraquedismo",
+      "localization":{
+         "endereco":"AJSDASD",
+         "foto":"DJSFISDFS",
+         "latitude":21321,
+         "longitude":213214
+      },
+      "price":"12",
+      "background":"0xffFFA500"
+   }
+]
